@@ -119,7 +119,7 @@ function App() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-FYZAF7D5.js", imports: ["/build/_shared/chunk-MD7WWT7H.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-AWGZXME7.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 } }, version: "d4e10c21", hmr: void 0, url: "/build/manifest-D4E10C21.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-FYZAF7D5.js", imports: ["/build/_shared/chunk-MD7WWT7H.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-KUWHHFC2.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 } }, version: "207a993f", hmr: void 0, url: "/build/manifest-207A993F.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var mode = "production", assetsBuildDirectory = "public/build", future = { v3_fetcherPersist: !1, v3_relativeSplatPath: !1 }, publicPath = "/build/", entry = { module: entry_server_node_exports }, routes = {
